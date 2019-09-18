@@ -1,3 +1,8 @@
+---
+layout: song
+title: Who's the king of the jungle
+---
+
 ## Who's the king of the jungle
 
 Capo 4
