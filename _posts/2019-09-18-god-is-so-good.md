@@ -1,3 +1,6 @@
+---
+layout: song
+---
 ## God Is So Good
 
 ```
