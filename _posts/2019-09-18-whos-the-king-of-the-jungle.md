@@ -1,6 +1,7 @@
 ---
 layout: song
 title: Who's the king of the jungle
+categories: ['20190922']
 ---
 
 ## Who's the king of the jungle

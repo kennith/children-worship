@@ -1,6 +1,8 @@
 ---
 layout: song
 title: Step by Step
+categories: ['20190922']
+
 ---
 
 ## Step by Step

@@ -1,5 +1,6 @@
 ---
 layout: song
+categories: ['20190922']
 ---
 ## God Is So Good
 

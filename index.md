@@ -1,11 +1,21 @@
 ---
 layout: default
 ---
-
 ## 2019-09-22
 
-[Who's the king of the Jungle]({% post_url 2019-09-18-whos-the-king-of-the-jungle %})
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
-[Step by step]({% post_url 2019-09-18-Step-by-Step %})
-
-[God is so Good]({{ page.url }}/{% post_url 2019-09-18-god-is-so-good %})
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
