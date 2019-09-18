@@ -8,4 +8,4 @@ layout: default
 
 [Step by step]({% post_url 2019-09-18-Step-by-Step %})
 
-[God is so Good]({% post_url 2019-09-18-god-is-so-good %})
+[God is so Good]({{ page.url }}/{% post_url 2019-09-18-god-is-so-good %})
