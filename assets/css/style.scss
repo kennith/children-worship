@@ -2,3 +2,18 @@
 ---
 
 @import "jekyll-theme-primer";
+
+body {
+	font-family: 'Space Mono', monospace;
+}
+
+.markdown-body {
+	font-family: 'Space Mono', monospace;
+	font-weight: bold;
+}
+
+@media (min-width: 1280px) {
+	.markdown-body pre > code {
+		font-size: 40px;
+	}
+}
