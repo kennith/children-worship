@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+## 2020-01-19
+
+[PPT](https://docs.google.com/presentation/d/1OdZzU_3cE_JtoA7AYRMPx7evv05kymP4muhOFFZPHU8/edit?usp=sharing)
+
 ## 2019-12-22
 
 [What a special night](https://youtu.be/duzZ-p6rYNI)
