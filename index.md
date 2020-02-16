@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+## 2020-02-16
+
+[PPT](https://docs.google.com/presentation/d/14A2l8f3vjg35OyvG6kp6R5uuEEvFL728B2Xg4WS0Gfo/edit?usp=sharing)
+
 ## 2020-01-19
 
 [PPT](https://docs.google.com/presentation/d/1OdZzU_3cE_JtoA7AYRMPx7evv05kymP4muhOFFZPHU8/edit?usp=sharing)
